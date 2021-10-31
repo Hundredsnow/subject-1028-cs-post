@@ -16,7 +16,7 @@ namespace subject_1028_cs_post
                 new Dictionary<string, string>()
                 {
                     { "personal_name", "件名CS" },
-                    { "contents", "本文\nあいうえお" }
+                    { "contents", "本文\nあいうえおXXXXXXXXX" }
                 };
 
             try
